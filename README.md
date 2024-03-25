@@ -2,7 +2,7 @@
 
  📚 **Estudante de Análise e Desenvolvimento de Sistemas**
 - Atualmente estou trabalhando em **Portifolio Pessoal**
-- Estou aprendendo **Docker**
+- Estou aprendendo **PHP**
 - Seja Bem-Vindo
 
 
