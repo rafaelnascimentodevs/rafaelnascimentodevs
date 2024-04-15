@@ -24,7 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafaelnascimentodevs/rafaelnascimentodevs/output/snake.svg" alt="Snake animation" />
 
 ###
 
