@@ -1,24 +1,35 @@
-<h1 align="center">Olá, sou Rafael👽🤘</h1><p align="left"> <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" /> </p>
+<h1 align="center">Rafael Nascimento</h1>
 
- 📚 **Estudante de Análise e Desenvolvimento de Sistemas**
-- Atualmente estou trabalhando em **Portifolio Pessoal**
-- Estou aprendendo **PHP**
-- Seja Bem-Vindo
+###
 
+<h5 align="center">📚 **Estudante de Análise e Desenvolvimento de Sistemas**<br>- Atualmente estou trabalhando em **Portifolio Pessoal**<br>- Estou aprendendo **PHP**<br>- Seja Bem-Vindo</h5>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelnascimentodevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
+###
 
-- Como chegar até mim **rafaelnascimenton65@gmail.com**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+</div>
 
-<h3 align="left">Conecte-se 📫 comigo:</h3><p align="left">
+###
 
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelnascimentodev" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3>
+<img src="https://raw.githubusercontent.com/rafaelnascimentodevs/rafaelnascimentodevs/output/snake.svg" alt="Snake animation" />
 
+###
 
+<div align="center">
+  <img height="200" src="https://gif-avatars.com/img/200x200/spining-cube.gif"  />
+</div>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" altura="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelnascimentodev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rafaelnascimentodev" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelnascimentodev&theme=dark" alt="rafaelnascimentodev" />
-
-</p>
+###
