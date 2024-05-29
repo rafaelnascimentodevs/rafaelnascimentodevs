@@ -49,7 +49,7 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/93007558/216892041-5599d3d8-50e0-4d46-8171-5021d69d7745.gif" alt="Coding gif" />
   
  ✌️ &emsp; Keep Calm <br/><br/>
- ❤️ &emsp; Amo aprender coisas novas<br/><br/>
+ :books: &emsp; Estudando POO e E. de Dados<br/><br/>
  📧 &emsp; E-mail: rafaelnascimenton65@gmail.com<br/><br/>
 
 </p>
@@ -72,7 +72,7 @@
 
 <br/>
 
-## Repositório -
+##
 
 <p align="left">
   <a href="https://github.com/rafaelnascimentodevs?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
