@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
- <a href="https://instagram.com/_rxfxnasc" target="_blank">
+ <a href="https://instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rxfx" />
  </a> 
 </p>
