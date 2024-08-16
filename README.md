@@ -49,7 +49,7 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/93007558/216892041-5599d3d8-50e0-4d46-8171-5021d69d7745.gif" alt="Coding gif" />
   
  ✌️ &emsp; Let's Go <br/><br/>
- :books: &emsp; I'm Learning : Handoop; AWS Cloud; <br/><br/>
+ :books: &emsp; <br/><br/>
  📧 &emsp; E-mail: rafaelnascimenton65@gmail.com<br/><br/>
 
 </p>
