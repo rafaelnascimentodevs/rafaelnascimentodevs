@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
    <h2>Olá, eu sou Rafael Nascimento</h2> 
-   <p> Sou Estudante de Análise e Desenvolvimento de Sistemas 3º Período</p>    
+   <p> Estudante de Análise e Desenvolvimento de Sistemas 3º Período</p>    
   </samp>
 </p>
 <br/>
