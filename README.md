@@ -19,35 +19,21 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Olá!, Eu sou
-                <b><a target="_blank" href="">Rafael</a></b>
+        <samp>&gt; Meu 
+                <b><a target="_blank" href="https://rafaelnascimentodevs.github.io/portifolio/">Portifólio</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="[https://www.google.com/search?q=Al+Siam](https://rafaelnascimentodevs.github.io/portifolio/)">「 da um CLick 」</a>
-    <br>
-    「 Sou Estudante de <b>Analise e Desenvolvimento de Sistemas</b> 」
-    <br>
-    <br>
+   <h2>Olá, eu sou Rafael Nascimento</h2> 
+   <p> Sou Estudante de Análise e Desenvolvimento de Sistemas 3º Período</p>    
   </samp>
 </p>
+<br/>
 
-<p align="center">
- <a href="https://instagram.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rxfx" />
- </a> 
-</p>
-<br />
-
-<!-- About Section -->
  # 
- 
-<p>
- <img align="right" width="350" src="https://user-images.githubusercontent.com/93007558/216892041-5599d3d8-50e0-4d46-8171-5021d69d7745.gif" alt="Coding gif" />
-  
  
  :books: &emsp; Vamos nessa!! <br/><br/>
  📧 &emsp; E-mail: rafaelnascimenton65@gmail.com<br/><br/>
@@ -56,18 +42,17 @@
 
 <br/>
 <br/>
-<br/>
 
 ## 
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 )
 ![SQL](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
 )
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
