@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Meu 
-                <b><a target="_blank" href="https://rafaelnascimentodevs.github.io/portifolio/">Portifólio</a></b>
+                <b><a target="_blank" href="https://rafaelnascimentodev.onrender.com/">Portifólio</a></b>
         </samp>
 </h3>
 
@@ -28,7 +28,8 @@
 <p align="center"> 
   <samp>
    <h2>Olá, eu sou Rafael Nascimento</h2> 
-   <p> Estudante de Análise e Desenvolvimento de Sistemas 4º Período</p>    
+   <p> Estudante de Análise e Desenvolvimento de Sistemas 4º Período</p>  
+    <p>Repositórios Priv, acesso apps no portifólio</p>
   </samp>
 </p>
 <br/>
