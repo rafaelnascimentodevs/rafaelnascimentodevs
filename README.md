@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Meu 
-                <b><a target="_blank" href="https://rafaelnascimentodev.onrender.com/">Portifólio</a></b>
+                <b><a target="_blank" href="https://rafaelnascimentodev.netlify.app/">Portifólio</a></b>
         </samp>
 </h3>
 
