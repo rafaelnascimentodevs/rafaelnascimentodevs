@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
    <h2>Olá, eu sou Rafael Nascimento</h2> 
-   <p> Estudante de Análise e Desenvolvimento de Sistemas 4º Período</p>  
+   <p> Estudante de Análise e Desenvolvimento de Sistemas 5º Período</p>  
     <p>Alguns Repositórios recentes estão privados, acesso aos WebApp apps no portifólio</p>
     <p>Interesse em contribuir? Me mande um Email!</p>
   </samp>
